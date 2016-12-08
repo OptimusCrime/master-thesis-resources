@@ -1,6 +1,6 @@
 # Rorschach :: Resources
 
-Repository contains some resources that are used in my master thesis.
+Repository containing some resources that are used in my master thesis.
 
 ## Fonts
 
